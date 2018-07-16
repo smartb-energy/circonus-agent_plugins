@@ -1,0 +1,8 @@
+[circonus_plugins]
+plan_path = "habitat/circonus_plugins"
+
+[circonus_celery_plugins]
+plan_path = "habitat/circonus_celery_plugins"
+
+[circonus_habitat_plugins]
+plan_path = "habitat/circonus_habitat_plugins"
